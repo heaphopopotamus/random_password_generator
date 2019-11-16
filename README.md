@@ -1,2 +1,9 @@
 # random_password_generator
-An easy to host random password generator to serve to your r&amp;d team internally as a stopgap for poor password management :)
+An easy to host random password generator   
+Serve this to your lazy r&amp;d team   
+Maybe they will stop using Companyname123!  
+
+# instructions  
+go build main.go  
+./main  
+navigate to: http://<ip>:8000/freePasswords  
