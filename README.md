@@ -1,8 +1,8 @@
 # random_password_generator
 An easy to host random password generator   
-Serve this to people  
-No need to use generates from the internet that see your IP/Company/Location/Generated Passwords  
-Maybe they will stop using Companyname123!  
+Serve this to people so they stop getting passwords from internet 
+No more exposure of password/source ip/ company/etc for simple tasks like this
+If lucky they will stop using Companyname123!  
 
 # instructions  
 go build main.go  
